@@ -1,3 +1,5 @@
-My name is sameer
+My name is hrithikgaikwad
 git assigment 1
-conflictc
+this is first
+this is second
+this is third
