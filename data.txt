@@ -1,3 +1,3 @@
-My name is hrithik
+My name is sameer
 git assigment 1
-conflict
+conflictc
