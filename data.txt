@@ -1,5 +1,3 @@
 My name is hrithik
 git assigment 1
 this is first
-this is second
-this is third
